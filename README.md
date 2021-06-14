@@ -15,12 +15,14 @@ Project image/gif
 -------
 
 `cd python-project-name`
+
 `python main.py`
 
 # Example
 ---------
 
 `cd python-project-name`
+
 `python main.py`
 
 # Documentation
