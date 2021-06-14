@@ -1,5 +1,5 @@
-c-project-structure
-===================
+python-project-structure
+========================
 
 Project description
 
@@ -9,17 +9,19 @@ Project image/gif
 # Installation
 --------------
 
-`make`
+`pip install -r requirements.txt`
 
 # Usage
 -------
 
-`bin/run`
+`cd python-project-name`
+`python main.py`
 
 # Example
 ---------
 
-`bin/run`
+`cd python-project-name`
+`python main.py`
 
 # Documentation
 ---------------
@@ -31,19 +33,15 @@ Location of Documentation
 ----------------------
 ```
 .
-|-- Makefile           <- Project makefile
-|-- README             <- Project README
-|-- bin                <- Compiled binaries
-|   `-- run            <- Project main executable
-|-- build              <- Static objects
-|-- data               <- Project data
-|   |-- raw            <- Raw data
-|   |-- interim        <- Interm data
-|   |-- input          <- Input data
-|   |-- output         <- Output data
-|-- docs               <- Documentation
-|-- include            <- Header files
-|-- lib                <- Dynamic objects
-|-- src                <- Source files
-`-- tests              <- Unit tests
+|-- README               <- Project README
+|-- requirements.txt     <- Project dependencies
+|-- data                 <- Project data
+|   |-- raw              <- Raw data
+|   |-- interim          <- Interm data
+|   |-- input            <- Input data
+|   |-- output           <- Output data
+|-- docs                 <- Documentation
+|-- notebooks            <- Jupyter notebooks
+|-- python-project-name  <- Source files
+`-- tests                <- Unit tests
 ```
