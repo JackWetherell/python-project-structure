@@ -1,42 +1,34 @@
-python-project-structure
-========================
+# python-project-structure
 
 Project description
 
 Project image/gif
 
 # Requirements
---------------
 
 Requirements
 
 # Installation
---------------
 
 `pip install -r requirements.txt`
 
 # Usage
--------
 
 `cd python-project-name`
 
 `python main.py`
 
 # Example
----------
 
 `cd python-project-name`
 
 `python main.py`
 
 # Documentation
----------------
 
 Location of Documentation
 
-
 # Directory structure
-----------------------
 ```
 .
 |-- README               <- Project README
