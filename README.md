@@ -30,7 +30,6 @@ Location of Documentation
 
 ## Directory structure
 ```
-.
 |-- README               <- Project README
 |-- requirements.txt     <- Project dependencies
 |-- data                 <- Project data
