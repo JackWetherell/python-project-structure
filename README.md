@@ -4,31 +4,31 @@ Project description
 
 Project image/gif
 
-# Requirements
+## Requirements
 
 Requirements
 
-# Installation
+## Installation
 
 `pip install -r requirements.txt`
 
-# Usage
+## Usage
 
 `cd python-project-name`
 
 `python main.py`
 
-# Example
+## Example
 
 `cd python-project-name`
 
 `python main.py`
 
-# Documentation
+## Documentation
 
 Location of Documentation
 
-# Directory structure
+## Directory structure
 ```
 .
 |-- README               <- Project README
