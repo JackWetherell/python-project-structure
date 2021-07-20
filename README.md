@@ -14,13 +14,13 @@ Requirements
 
 ## Usage
 
-`cd python-project-name`
+`cd python_project_name`
 
 `python main.py`
 
 ## Example
 
-`cd python-project-name`
+`cd python_project_name`
 
 `python main.py`
 
@@ -39,6 +39,6 @@ Location of Documentation
 |   |-- output           <- Output data
 |-- docs                 <- Documentation
 |-- notebooks            <- Jupyter notebooks
-|-- python-project-name  <- Source files
+|-- python_project_name  <- Source files
 `-- tests                <- Unit tests
 ```
